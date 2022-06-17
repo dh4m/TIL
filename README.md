@@ -1,3 +1,6 @@
 # TIL
 This repository records what I studied today. Today I Learned!
-### commit test
+### 진행 중
+---
++ 자료 구조
++ Deep Learning
